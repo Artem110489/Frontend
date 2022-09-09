@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/*css units
+-em
+-rm
+-px
+-%
+-vh
+-vw
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+}
+
+
+.parent,
+.child {
+
+
+    position: relative;
+    border: solid 2px black;
+    padding: 30px;
+    margin: 100px;
+
+
+}
+
+
+.child ch-2
+{
+
+}

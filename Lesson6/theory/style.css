@@ -1,0 +1,29 @@
+
+
+
+.parent {
+    border: solid 2px black;
+    background-color: blueviolet;
+    width: 70vw;
+    height: 50vh;
+    padding: 10px;
+}
+
+.child {
+    border: solid 2px black;
+    margin: 10px;
+    width: 60vw;
+    height: 10vh;
+}
+
+.ch1 {
+    background-color: red;
+}
+
+.ch2 {
+    background-color: yellow;
+}
+
+.ch3 {
+    background-color: green;
+}
